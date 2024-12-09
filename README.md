@@ -1,2 +1,3 @@
-Build command npm run build/n
-Starting command npm run start
+Build command npm run build.
+
+Starting command npm run start.
