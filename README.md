@@ -1,7 +1,7 @@
-Build command 
+Build command:
 
-### npm run build.
+### npm run build
 
-Starting command 
+Starting command:
 
-### npm run start.
+### npm run start
